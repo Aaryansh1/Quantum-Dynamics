@@ -11,3 +11,40 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: "MulishLight";
+  src: local("MulishLight"),
+  url("./fonts/Mulish-Light.ttf") format("truetype");
+
+}
+@font-face {
+  font-family: "MulishExtraLight";
+  src: local("MulishExtraLight"),
+  url("./fonts/Mulish-ExtraLight.ttf") format("truetype");
+
+}
+@font-face {
+  font-family: "MulishBlack";
+  src: local("MulishBlack"),
+  url("./fonts/Mulish-Black.ttf") format("truetype");
+
+}
+@font-face {
+  font-family: "MulishBold";
+  src: local("MulishBold"),
+  url("./fonts/Mulish-Bold.ttf") format("truetype");
+
+}
+@font-face {
+  font-family: "MulishSemiBold";
+  src: local("MulishSemiBold"),
+  url("./fonts/Mulish-SemiBold.ttf") format("truetype");
+
+}
+@font-face {
+  font-family: "MulishRegular";
+  src: local("MulishRegular"),
+  url("./fonts/Mulish-Regular.ttf") format("truetype");
+
+}

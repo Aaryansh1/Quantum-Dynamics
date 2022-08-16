@@ -1,0 +1,12 @@
+.sideNav{
+    margin-left: auto;
+    margin-right: auto;
+}
+.sideNavSetting{
+    margin:0rem auto 0rem auto;
+}
+.containerSideBar{
+    max-width: 8%;
+    min-height: 100vh;
+    border-right: 2px solid #cccce4;
+}
