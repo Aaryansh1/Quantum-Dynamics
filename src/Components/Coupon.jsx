@@ -43,7 +43,7 @@ function Coupon() {
               paddingLeft: "0.5rem",
               paddingRight: "0.5rem",
             }}
-            src="./SEARCh.svg"
+            src="./SEARCH.svg"
             alt="Search"
           />
           <input className="searchInput" type="text" />
@@ -72,6 +72,90 @@ function Coupon() {
               <label class="switch">
                 <input type="checkbox" />
                 <span class="slider round"></span>
+              </label>
+            </td>
+            <img style={{ float: "right" }} src="./threedots.svg" alt="" />
+          </tr>
+          <tr>
+            <td>01</td>
+            <td>20% off</td>
+            <td>20%</td>
+            <td>2 Feb</td>
+            <td>4 Feb</td>
+            <td>
+              <label class="switch">
+                <input type="checkbox" />
+                <span class="slider"></span>
+              </label>
+            </td>
+            <img style={{ float: "right" }} src="./threedots.svg" alt="" />
+          </tr>
+          <tr>
+            <td>01</td>
+            <td>20% off</td>
+            <td>20%</td>
+            <td>2 Feb</td>
+            <td>4 Feb</td>
+            <td>
+              <label class="switch">
+                <input type="checkbox" />
+                <span class="slider"></span>
+              </label>
+            </td>
+            <img style={{ float: "right" }} src="./threedots.svg" alt="" />
+          </tr>
+          <tr>
+            <td>01</td>
+            <td>20% off</td>
+            <td>20%</td>
+            <td>2 Feb</td>
+            <td>4 Feb</td>
+            <td>
+              <label class="switch">
+                <input type="checkbox" />
+                <span class="slider"></span>
+              </label>
+            </td>
+            <img style={{ float: "right" }} src="./threedots.svg" alt="" />
+          </tr>
+          <tr>
+            <td>01</td>
+            <td>20% off</td>
+            <td>20%</td>
+            <td>2 Feb</td>
+            <td>4 Feb</td>
+            <td>
+              <label class="switch">
+                <input type="checkbox" />
+                <span class="slider"></span>
+              </label>
+            </td>
+            <img style={{ float: "right" }} src="./threedots.svg" alt="" />
+          </tr>
+          <tr>
+            <td>01</td>
+            <td>20% off</td>
+            <td>20%</td>
+            <td>2 Feb</td>
+            <td>4 Feb</td>
+            <td>
+              <label class="switch">
+                <input type="checkbox" />
+                <span class="slider"></span>
+              </label>
+            </td>
+            <img style={{ float: "right" }} src="./threedots.svg" alt="" />
+          </tr>
+          <tr>
+            <td>01</td>
+            <td>20% off</td>
+            <td>20%</td>
+            <td>2 Feb</td>
+            <td>4 Feb</td>
+            <td>
+              <label class="switch">
+                <input type="checkbox" />
+                <span class="slider"></span>
               </label>
             </td>
             <img style={{ float: "right" }} src="./threedots.svg" alt="" />

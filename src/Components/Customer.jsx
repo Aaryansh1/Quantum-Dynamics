@@ -24,7 +24,7 @@ function Customer() {
               paddingLeft: "0.5rem",
               paddingRight: "0.5rem",
             }}
-            src="./SEARCh.svg"
+            src="./SEARCH.svg"
             alt="Search"
           />
           <input className="searchInput" type="text" />
@@ -51,6 +51,94 @@ function Customer() {
             <td className="tdPurchased">
               bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
             </td>
+            <td>$400</td>
+          </tr>
+          <tr>
+            <td>XXX2</td>
+            <td>AAAAAA</td>
+            <td>1 Feb 2021</td>
+            <td>2</td>
+            <td>bbbbbbbbb</td>
+            <td>$400</td>
+          </tr>
+          <tr>
+            <td>XXX2</td>
+            <td>AAAAAA</td>
+            <td>1 Feb 2021</td>
+            <td>2</td>
+            <td>bbbbbbbbb</td>
+            <td>$400</td>
+          </tr>
+          <tr>
+            <td>XXX2</td>
+            <td>AAAAAA</td>
+            <td>1 Feb 2021</td>
+            <td>2</td>
+            <td>bbbbbbbbb</td>
+            <td>$400</td>
+          </tr>
+          <tr>
+            <td>XXX2</td>
+            <td>AAAAAA</td>
+            <td>1 Feb 2021</td>
+            <td>2</td>
+            <td>bbbbbbbbb</td>
+            <td>$400</td>
+          </tr>
+          <tr>
+            <td>XXX2</td>
+            <td>AAAAAA</td>
+            <td>1 Feb 2021</td>
+            <td>2</td>
+            <td>bbbbbbbbb</td>
+            <td>$400</td>
+          </tr>
+          <tr>
+            <td>XXX2</td>
+            <td>AAAAAA</td>
+            <td>1 Feb 2021</td>
+            <td>2</td>
+            <td>bbbbbbbbb</td>
+            <td>$400</td>
+          </tr>
+          <tr>
+            <td>XXX2</td>
+            <td>AAAAAA</td>
+            <td>1 Feb 2021</td>
+            <td>2</td>
+            <td>bbbbbbbbb</td>
+            <td>$400</td>
+          </tr>
+          <tr>
+            <td>XXX2</td>
+            <td>AAAAAA</td>
+            <td>1 Feb 2021</td>
+            <td>2</td>
+            <td>bbbbbbbbb</td>
+            <td>$400</td>
+          </tr>
+          <tr>
+            <td>XXX2</td>
+            <td>AAAAAA</td>
+            <td>1 Feb 2021</td>
+            <td>2</td>
+            <td>bbbbbbbbb</td>
+            <td>$400</td>
+          </tr>
+          <tr>
+            <td>XXX2</td>
+            <td>AAAAAA</td>
+            <td>1 Feb 2021</td>
+            <td>2</td>
+            <td>bbbbbbbbb</td>
+            <td>$400</td>
+          </tr>
+          <tr>
+            <td>XXX2</td>
+            <td>AAAAAA</td>
+            <td>1 Feb 2021</td>
+            <td>2</td>
+            <td>bbbbbbbbb</td>
             <td>$400</td>
           </tr>
           <tr>
